@@ -13,6 +13,8 @@ This project provides a FastAPI application that groups legal claims into cluste
 - Python 3.7 or higher
 - Install the required Python packages using the instructions below.
 
+ **Note:** This project requires NumPy version 1.x due to compatibility issues with some dependencies. The `requirements.txt` file ensures that the correct version of NumPy is installed.
+
 ## Installation
 
 1. Clone the repository:
