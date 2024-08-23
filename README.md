@@ -44,8 +44,9 @@ This project provides a FastAPI application that groups legal claims into cluste
     ```bash
     uvicorn app:app --reload
     ```
-
-    The application will be available at `http://127.0.0.1:8000`.
+ **Note:** Starting the application might take a bit of time. Please be patient and wait for the message `Application startup complete` to appear in the terminal before trying to access the site.
+ 
+The application will be available at `http://127.0.0.1:8000`.
 
 2. **Interact with the API:**
 
